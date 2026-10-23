@@ -8,8 +8,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=8b5cf6" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=ToThanhNhan&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/github/followers/ToThanhNhan?style=for-the-badge&logo=github&color=8b5cf6" alt="followers"/>
 
 </div>
 
