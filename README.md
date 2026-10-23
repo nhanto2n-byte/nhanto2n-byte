@@ -36,7 +36,7 @@
 
 ```python
 class ToThanhNhan:
-    name       = "Tô Thanh Nhân"
+    name       = "Tô Thành Nhân"
     github     = "nhanto2n-byte"
     education  = "Information Technology @ Saigon University"
     focus      = ["Full-stack Development", "Artificial Intelligence", "Data Science"]
