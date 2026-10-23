@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0b1220,100:1d4ed8&height=260&section=header&text=Tô%20Thanh%20Nhân&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full-stack%20Developer%20%C2%B7%20AI%20%2F%20Data%20Enthusiast&descSize=20&descAlignY=64&descColor=9ca3af" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0b1220,100:1d4ed8&height=260&section=header&text=Tô%20Thành%20Nhân&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full-stack%20Developer%20%C2%B7%20AI%20%2F%20Data%20Enthusiast&descSize=20&descAlignY=64&descColor=9ca3af" width="100%" alt="header"/>
 
 <a href="https://github.com/nhanto2n-byte">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=760&height=55&lines=Hi+there%2C+I'm+Nh%C3%A2n+%F0%9F%91%8B;IT+Student+%40+Saigon+University;Building+Full-stack+Apps+%26+AI+Projects;Sinh+vi%C3%AAn+CNTT+%7C+%C4%90am+m%C3%AA+AI+%26+D%E1%BB%AF+li%E1%BB%87u;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
