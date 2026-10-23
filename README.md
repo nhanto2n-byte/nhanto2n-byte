@@ -17,11 +17,11 @@
 
 ## 👋 Giới thiệu
 
-- 🔭 Hiện đang làm việc tại **[Công ty / Dự án của bạn]**
+- 🔭 Hiện đang làm việc tại **[ SaiGon University / Dự án của bạn]**
 - 🌱 Đang học: **[TypeScript / Rust / AI ...]**
 - 💬 Hỏi mình về: **[React, Node.js, Python ...]**
-- 🎯 Mục tiêu: **[Mục tiêu của bạn]**
-- ⚡ Fun fact: **[Điều thú vị về bạn]**
+- 🎯 Mục tiêu: **[Cố gắn hoàn thành công việc được giao ]**
+- ⚡ Fun fact: **[Nghiện đồ công nghệ]**
 
 ---
 
