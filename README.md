@@ -93,17 +93,7 @@ class ToThanhNhan:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nhanto2n-byte&bg_color=000000&color=58a6ff&line=1d4ed8&point=ffffff&area=true&area_color=1d4ed8&hide_border=true&radius=8" width="100%" />
-
-</div>
-
----
-
-## `> trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nhanto2n-byte&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" />
+<img src="https://ghchart.rshah.org/58a6ff/nhanto2n-byte" alt="Contribution chart" width="100%" />
 
 </div>
 
